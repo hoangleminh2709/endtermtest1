@@ -1,0 +1,27 @@
+.options {
+  border: none;
+  transition: cubic-bezier(0.215, 0.61, 0.355, 1);
+  background-color: rgb(210, 210, 210);
+}
+
+.input {
+  border: 1px solid #ccc; /* Viền của input */
+  border-radius: 5px; /* Độ cong của viền */
+  padding: 10px; /* Khoảng cách giữa nội dung và viền */
+}
+
+.add {
+  border: 1px solid #ccc; /* Viền của input */
+  border-radius: 5px; /* Độ cong của viền */
+  padding: 12px; /* Khoảng cách giữa nội dung và viền */
+  background-color: blue;
+  color: white;
+}
+
+.delete {
+  border: 1px solid #ccc; /* Viền của input */
+  border-radius: 5px; /* Độ cong của viền */
+  padding: 12px; /* Khoảng cách giữa nội dung và viền */
+  background-color: red;
+  color: white;
+}
